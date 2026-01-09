@@ -160,18 +160,14 @@ This step-by-step design makes the application easy to use for non-technical use
 ```bash
 .venv\Scripts\activate
 Step 2: Install Dependencies
-
-bash
-Copy code
 pip install -r requirements.txt
+
 Step 3: (Optional) Run Data Exploration Script
-bash
-Copy code
 python src/train.py
+
 Step 4: Run Streamlit Application
-bash
-Copy code
 streamlit run src/streamlit_app.py
+
 The application will open in the browser.
 
 Key Features
