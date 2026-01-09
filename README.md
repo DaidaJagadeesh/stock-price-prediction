@@ -23,7 +23,7 @@ The main goal of this project is clarity, simplicity, and correct implementation
 ---
 
 ## Folder Structure
-
+```
 Stock_price_prediction/
 │
 ├── dataset/
@@ -48,8 +48,7 @@ Stock_price_prediction/
 ├── requirements.txt # Required libraries
 ├── README.md
 
-markdown
-Copy code
+```
 
 ---
 
